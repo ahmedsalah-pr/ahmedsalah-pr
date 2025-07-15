@@ -8,7 +8,7 @@
 
 ### 📝 About Me
 
-🎓 **AI Student | Year 2 | Pharos University**  
+🎓 **AI Engineer | Year 2 | Pharos University**  
 💡 **Passionate about Machine Learning, Deep Learning, and Generative AI**  
 🚀 I love learning by building real projects and solving practical problems  
 🌱 **Currently learning:** MLOps, NLP with Transformers, Computer Vision  
