@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ahmed Aboelnasr</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"/>
 </p>
 
 ---
@@ -18,10 +18,12 @@
 
 ### 🛠️ What I'm Working On
 
-- Improving my Python and Math for AI  
+- Improving my Python, Math, and SQL for AI  
 - Implementing ML & DL algorithms from scratch  
 - Exploring Generative AI and Large Language Models  
-- Learning deployment with FastAPI & Streamlit
+- Learning deployment with FastAPI & Streamlit  
+- Building multiple projects on real-world datasets  
+- Developed a **Smart Home project** integrating AI and IoT
 
 ---
 
@@ -33,6 +35,7 @@
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -54,4 +57,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
+
 
